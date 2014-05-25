@@ -21,6 +21,7 @@ a {
   width: 120px;
   margin: 50px auto;
   text-align: center;
+  display: block;
 }
 
 .logo img {
@@ -33,10 +34,9 @@ a {
   width: 20%;
   height: 100%;
   background: #5fc36b;
-  margin-right: 50px;
 }
 
-.menu a {
+nav a {
   color: #fff;
   border-top: 2px solid #fff;
   display: block;
@@ -48,10 +48,12 @@ a {
   font-size: 12px;
 }
 
-.menu a:last-child {
+nav a:last-child {
   border-bottom: 2px solid #fff;
 }
 
 .content {
   padding: 50px;
+  height: 100%;
+  overflow: scroll;
 }
