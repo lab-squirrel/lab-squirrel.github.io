@@ -58,10 +58,6 @@ nav a:last-child {
   overflow: scroll;
 }
 
-.titan a {
-  color: #404040;
-}
-
 .titan {
   text-color: #737373;
   text-align: left;
