@@ -57,3 +57,17 @@ nav a:last-child {
   height: 100%;
   overflow: scroll;
 }
+
+.titan {
+  text-color: #737373;
+  text-align: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.titan h3 {
+  color: #6B6B6B;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
