@@ -21,6 +21,7 @@ a {
   width: 120px;
   margin: 50px auto;
   text-align: center;
+  display: block;
 }
 
 .logo img {
@@ -35,7 +36,7 @@ a {
   background: #5fc36b;
 }
 
-.menu a {
+nav a {
   color: #fff;
   border-top: 2px solid #fff;
   display: block;
@@ -47,7 +48,7 @@ a {
   font-size: 12px;
 }
 
-.menu a:last-child {
+nav a:last-child {
   border-bottom: 2px solid #fff;
 }
 
